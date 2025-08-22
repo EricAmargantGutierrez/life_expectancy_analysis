@@ -10,7 +10,6 @@ This project analyzes how socio-economic factors impact life expectancy across t
 - Exploratory Data Analysis (EDA)
 - Statistical Regression Analysis
 - Machine Learning (Linear Regression, Regularization with Ridge/Lasso)
-- Clustering with K-Means
 
 ## Key Insights
 - Region and Income Group were the strongest predictors of life expectancy.
