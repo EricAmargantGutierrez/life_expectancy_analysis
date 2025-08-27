@@ -14,7 +14,7 @@ This project analyzes how socio-economic factors impact life expectancy across t
 ## Key Insights
 - Region and Income Group were the strongest predictors of life expectancy.
 - Sub-Saharan Africa had a significant negative coefficient.
-- Undernourishment showed a strong negative correlation with life expectancy.
+- Undernourishment showed a negative correlation with life expectancy.
 
 ## Technologies Used
 - Python
